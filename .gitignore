@@ -27,3 +27,11 @@
 *.exe
 *.out
 *.app
+
+#ROS
+*.txt~
+*.cpp~
+*.c~
+*.xml~
+*.launch~
+*.srv~
