@@ -1,0 +1,16 @@
+<package>
+   <name>hlf_common_srv</name>
+   <version>0.2.7</version>
+   <description>
+      srv for hlf project via ROS
+   </description>
+   <maintainer email="namniart@gmail.com">Austin Hendrix</maintainer>
+   <author>Nate Koenig</author>
+   <license>BSD</license>
+
+   <buildtool_depend>catkin</buildtool_depend>
+
+   <build_depend>message_generation</build_depend>
+
+   <run_depend>message_runtime</run_depend>
+</package>
